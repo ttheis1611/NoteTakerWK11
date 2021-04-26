@@ -1,0 +1,24 @@
+{
+  "name": "notetakerwk11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttheis1611/NoteTakerWK11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttheis1611/NoteTakerWK11/issues"
+  },
+  "homepage": "https://github.com/ttheis1611/NoteTakerWK11#readme"
+}
