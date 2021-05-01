@@ -1,22 +1,22 @@
-const express = require("express");
+const express = require('express');
 const app = express();
 // Sets an initial port.
-const apiRoutes = require("./routes/apiroutes");
-const htmlRoutes = require("./routes/htmlroutes");
+const apiRoutes = require('./routes/apiroutes');
+const htmlRoutes = require('./routes/htmlroutes');
 
 const PORT = process.env.PORT || 3001;
 
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static("public"));
+app.use(express.static('public'));
 
 //ROUTES
 
 //API 
-app.use("/api", apiRoutes);
+app.use('/api', apiRoutes);
 // HTML
-app.use("/", htmlRoutes); 
+app.use('/', htmlRoutes); 
 
 // =============================================================================
 // LISTENER
