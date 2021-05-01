@@ -19,7 +19,7 @@ A handy web site of 2 pages hosted on Heroku at https://notetakerwk11.herokuapp.
 NODE Express, NPM uuidv1 
   
 ### Screenshots
-![Splash](C:\Users\tlthe\Documents\blended-bootcamp\Challenges\NoteTakerWK11\images\SplashPage.jpg)
+![Splash](./images/SplashPage.jpg)
 HomePage 
 ![ADD Notes](C:\Users\tlthe\Documents\blended-bootcamp\Challenges\NoteTakerWK11\images\NoteHTML.jpg)
 Where to add notes. 
