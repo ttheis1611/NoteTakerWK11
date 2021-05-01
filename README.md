@@ -19,12 +19,13 @@ A handy web site of 2 pages hosted on Heroku at https://notetakerwk11.herokuapp.
 NODE Express, NPM uuidv1 
   
 ### Screenshots
+HomePage
 ![Splash](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/SplashPage.JPG)
-HomePage 
+Where to add notes.
 ![ADD Notes](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/NoteHTML.JPG)
-Where to add notes. 
+Function Display
 ![Function](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/Notefunction.JPG)
-Function Display 
+ 
 
 
 ## Contributing
