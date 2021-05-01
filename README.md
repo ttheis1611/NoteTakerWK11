@@ -23,6 +23,7 @@ HomePage
 ![Splash](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/SplashPage.JPG)
 Where to add notes.
 ![ADD Notes](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/NoteHTML.JPG)
+
 Function Display
 ![Function](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/Notefunction.JPG)
  
