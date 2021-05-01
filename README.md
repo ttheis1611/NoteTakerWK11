@@ -23,7 +23,7 @@ NODE Express, NPM uuidv1
 HomePage 
 ![ADD Notes](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/NoteHTML.JPG)
 Where to add notes. 
-![Function](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/Notefunction.jpg)
+![Function](https://github.com/ttheis1611/NoteTakerWK11/blob/main/images/Notefunction.JPG)
 Function Display 
 
 
