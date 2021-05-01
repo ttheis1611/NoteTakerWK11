@@ -39,7 +39,7 @@ class Store {
         }
 
         // New note to get id from uuid
-        const newNote = { title, text, id: uuidv1() };
+        const newNote = { title, text, id: uuid() };
 
         return this.getNotes()
             .then((notes) => [...notes, newNote])
