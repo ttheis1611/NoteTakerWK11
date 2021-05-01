@@ -3,10 +3,9 @@
 
 
 ## Description
-A handy web page
+A handy web site of 2 pages hosted on Heroku at https://notetakerwk11.herokuapp.com/. This page will have a splash page with a start	button that redirects to the NOTE taking page that then allows the user to add a title and text for a NOTE, then saves that data to display by clicking on that note. If the note is no longer needed, then there is the ability to delete the note.
 
 ## Contents
-* [Installation](#installation)
 * [Usage](#usage)
    * [Screenshots](#screenshots)
 * [Contributing](#contributing)
@@ -15,15 +14,9 @@ A handy web page
 * [Questions](#questions)
 * [License](#license)
 
-
-## Installation
-This application needs to install: 
-```
-NPM UUID
-```
   
 ## Usage
-NODE Express 
+NODE Express, NPM uuidv1 
   
 ### Screenshots
 ![Splash](C:\Users\tlthe\Documents\blended-bootcamp\Challenges\NoteTakerWK11\images\SplashPage.jpg)
@@ -35,21 +28,19 @@ Function Display
 
 
 ## Contributing
-Be considerate to others
+Be considerate to others. Had an issue with loading and installing Heroku but, eventually got all working.
   
 ## Credits
-* [Elliot Payne - TA extrodinare](N/A)
+* [Elliot Payne] - (T/A)
 * [YOUTUBE](https://www.youtube.com/watch?v=GgNcs9zIFSA)
 * [freeCodeCamp](https://forum.freecodecamp.org/t/what-is-the-purpose-of-this-line-of-code/405101)
-* [Hunter Wilkins](TA)
+* [Hunter Wilkins] - (TA)
 
   
 ## Tests
-To run tests on the application, install
 ```
-use INSOMNIA for server testing
+INSOMNIA was used for server testing on localhost
 ```
-and run `npm run test` from the command line.
   
 ## Questions
 Created by ttheis1611. 
